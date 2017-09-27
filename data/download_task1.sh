@@ -1,2 +1,0 @@
-wget https://www.dropbox.com/s/8od72n9it51gw6n/task1.train
-wget https://www.dropbox.com/s/van4ipnfewzychl/task1.test
